@@ -1,5 +1,7 @@
 # Trader Behavior Insights
 
+This project analyzes the correlation between **Bitcoin Market Sentiment (Fear & Greed Index)** and **Trader Performance (Hyperliquid transaction data)**.
+
 ## Setup
 1. Clone this repository.
    ```bash
